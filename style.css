@@ -1,0 +1,44 @@
+.main {
+    background-color: lightgray;
+    margin: 0;
+}
+
+.header{
+    background-color: white;
+    margin: 0;
+}
+
+.name{
+    width: 600px;
+    margin: auto;
+}
+
+.post{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    display: block;
+}
+
+.post img {
+    width: 100%;
+}
+
+.post h2, .post p{
+    padding: 5px;
+    margin: 0;
+}
+
+.post .title h2{
+    /* background-color: green; */
+    display: inline-block;
+    width: 80%;
+}
+
+.date{
+    /* background-color: yellow; */
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+    color: grey
+}
