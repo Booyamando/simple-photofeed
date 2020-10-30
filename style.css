@@ -1,11 +1,15 @@
-.main {
+body {
     background-color: lightgray;
+}
+
+.m-0 {
     margin: 0;
 }
 
 .header{
     background-color: white;
-    margin: 0;
+    margin-bottom: 1rem;
+    padding: 15px;
 }
 
 .name{
